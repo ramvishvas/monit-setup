@@ -1,0 +1,2 @@
+# monit-setup
+monit setup
